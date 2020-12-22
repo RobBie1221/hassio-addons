@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.4] - 2020-12-22
+### Fixed
+* Update ozw version to fix build
+* Change config location
+
 ## [1.1.3] - 2020-12-22
 ### Fixed
 * Update ozw version
