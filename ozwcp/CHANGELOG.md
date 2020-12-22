@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.3] - 2020-12-22
+### Fixed
+* Update ozw version
+
 ## [1.1.2] - 2019-08-09
 ### Fixed
 * Fixed Docker build failure
