@@ -8,7 +8,7 @@
   "args": {
     "OPENZWAVE_VERSION": "3b029a467e83bc7f0054e4dbba1e77e6eac7bc7f",
     "OPENZWAVE_REPO": "https://github.com/OpenZWave/open-zwave.git",
-    "OPENZWAVE_CONTROL_PANEL_VERSION": "0e2ed636e4735001641eb86c8faf9add7fd34e55",
+    "OPENZWAVE_CONTROL_PANEL_VERSION": "d51c855fbf4799af99e92f10750b22f263ac083b",
     "OPENZWAVE_CONTROL_PANEL_REPO": "https://github.com/OpenZWave/open-zwave-control-panel.git"
   }
 }
