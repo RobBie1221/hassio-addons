@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.5] - 2020-12-22
+### Fixed
+* Rollback panel version
+
 ## [1.1.4] - 2020-12-22
 ### Fixed
 * Update ozw version to fix build
