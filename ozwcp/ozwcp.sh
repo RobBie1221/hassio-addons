@@ -21,8 +21,8 @@ xmlstarlet ed -L -N x="http://code.google.com/p/open-zwave/"\
 # working directory must be the ozwcp repo), so we link it.
 ln -fs /config/OZW_Log.txt /root/open-zwave-control-panel/OZW_Log.txt
 
-bashio::log.info "Attempting to stop hass.io to avoid network, config, and log conflicts..."
-bashio::homeassistant.stop || bashio::log.warning 'Failed top stop hass.io; continuing anyway'
+# bashio::log.info "Attempting to stop hass.io to avoid network, config, and log conflicts..."
+# bashio::homeassistant.stop || bashio::log.warning 'Failed top stop hass.io; continuing anyway'
 
 bashio::log.info "Starting ozwcp..."
 /root/open-zwave-control-panel/ozwcp
